@@ -15,7 +15,7 @@ So, let's enjoy the ride people.
 
 
 
-**Important information**: I pretend to work on my pot belly a lot. Don't judge me.
+**Important information**: I pretend to work on reducing my pot belly a lot. Don't judge me.
 
 
 
