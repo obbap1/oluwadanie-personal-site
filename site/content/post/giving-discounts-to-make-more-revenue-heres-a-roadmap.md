@@ -7,17 +7,19 @@ description: >-
   it? Really??
 image: /img/dan-burton-w3twyzmlfpg-unsplash.jpg
 ---
-_**Important: **_
+**_Important: 
+_**
 
-_**The eBook "Making the most revenue for your business with discount campaigns" is a more detailed and extended version of this guide. **_
+**_The eBook "Making the most revenue for your business with discount campaigns" is a more detailed and extended version of this guide. 
+_**
 
-_****_[_**Pre-order it here**_](https://paystack.com/pay/discount-ebook)_**.**_
-
-
+_\*\*\*\*_[**_Pre-order it here_**](https://paystack.com/pay/discount-ebook)**_.
+_**
 
 What do you think when you introduce discounts to whatever product or service you're selling? You're cutting away a part of your profit and revenue, is that it? Really??
 
-**Let me tell you.**
+**Let me tell you.
+**
 
 Giving discounts on your products should, instead of cutting down the profit you'd make, increase it by a wide margin. However, this happens when you get the balance between cost and volume. 
 
@@ -25,19 +27,16 @@ That is, how much of a discount can you afford to give, and is this discount att
 
 These are the questions you need to answer before embarking on a campaign to slash down product/service prices.
 
-
-
 **A scenario:**
 
 Madam Bukky sells human hair on Instagram.
 
 There's a particular hair type that is her best seller and she wants to maximize profit from that particular product.
 
-**Let's call this Hair X.**
+**Let's call this Hair X.
+**
 
 The cost price is N35,000 and Madam Bukky sells Hair X at N50,000. Hence, she makes a N15,000 profit. Weekly, she sells 10 units of Hair X.
-
-
 
 Hence,
 
@@ -53,13 +52,12 @@ As earlier indicated, this lady wants to maximize profit from this particular pr
 
 ## The Mathematics.
 
-**How much of a discount can she afford to give?**
+**How much of a discount can she afford to give?
+**
 
 "Afford" is a keyword here. Madam Bukky wouldn't want to do a price slash that eats all of her profits, or even leave her with just a bit of it. She must give a discount that makes sense.
 
 She decided that N10,000 is still a decent profit to make from the sale of one unit of Hair X. S the selling price is now set at N45,000. That's a N5000 difference from the previous price, and a 5% slash.
-
-
 
 She also answers the second question.
 
@@ -68,8 +66,6 @@ She also answers the second question.
 **Madam Bukky: **"YES, I think so."
 
 Great.
-
-
 
 So, 20 people start to buy Hair X weekly from Madam Bukky because of the discount, here's why her top and bottom line would look like:
 
@@ -83,8 +79,6 @@ And discount based campaigns should reach as many people as possible because, MO
 
 **Remember this:** People are more inclined to purchase a product when they think they're getting more value for their money, than they would on a normal day. Hence, the discount based campaigns.
 
-
-
 And this leads us to something else to be considered: 
 
 
@@ -97,15 +91,11 @@ And this leads us to something else to be considered:
 
 What's your pick?
 
-
-
 You see, sometimes you can't really be sure of the best messaging that will appeal more to your potential customers. While you can make educated guesses on which one looks/reads more attractive, maybe by talking to people around, it's better you confirm that by running an A/B test and measuring engagement and conversion (sales).
 
 With this, you would have made the best choice one which messaging converts your audience to customers more.
 
 Oh, about A/B testing, let's take a look at what brought that up.
-
-
 
 
 
@@ -117,9 +107,8 @@ As we said, to get the best out of a discount campaign, you want to make sure th
 
 Bring back Mama Bukky's Hair X product, imagine she starts to sell 50 units weekly after sponsoring ads on Facebook and Instagram.
 
-
-
-** Pree the Maths:**
+** Pree the Maths:
+**
 
 **Revenue per week:** N2,250,000.
 
@@ -129,19 +118,16 @@ Do you see the massive difference and increase? It's why you should consider spo
 
 
 
-
-
 ## Set a Timeframe (Maybe not?)
 
 Look, you can run your discount campaigns for life (this isn't advisable as your audience can easily get saturated). But one thing you should do is NOT give your potential customers the luxury of too much time.
 
-**There's something called a sense of urgency. Use it.**
+**There's something called a sense of urgency. Use it.
+**
 
 Using words like "closing in 2 hours", "flash sale", "offer valid for 1st ten buyers" help you introduce a sense that (potential) customers need to take action, else they will miss out on that deal.
 
 It doesn't really matter how long you plan to run your campaign. Introducing this sense of urgency will get you those purchase actions you need.
-
-
 
 
 
@@ -153,11 +139,10 @@ Always remember to fail very fast. Meaning, when a campaign isn't working or pro
 
 While tracking your results, there's one thing you should put in mind.
 
-**Conversion rate.**
+**Conversion rate.
+**
 
 This is the number of sales made out of the number of people reached x 100.
-
-
 
 For example, you made 50 sales, and your campaign ad reached 200 people. Your conversion rate is:
 
@@ -176,18 +161,18 @@ This number helps you determine if you're doing something right, or not.
 * Craft the right and most appealing messaging.
 * Sponsor your campaign to reach more people. The more, the better.
 * Set an (appearance of a) timeframe. Introduce a sense of urgency.
-* Track your results.
+* Track your results.
 
+**If you found the article useful, think of what the soon-to-be-out eBook will be like. Read below.
+**
 
+**_Important: 
+_**
 
-**If you found the article useful, think of what the soon-to-be-out eBook will be like. Read below.**
+**_The eBook "Making the most revenue for your business with discount campaigns" is a more detailed and extended version of this guide. 
+_**
 
+_\*\*\*\*_[**_Pre-order it here_**](https://paystack.com/pay/discount-ebook)**_.
+_**
 
-
-_**Important: **_
-
-_**The eBook "Making the most revenue for your business with discount campaigns" is a more detailed and extended version of this guide. **_
-
-_****_[_**Pre-order it here**_](https://paystack.com/pay/discount-ebook)_**.**_
-
-_****_
+_\*\*\*\*_
