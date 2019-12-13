@@ -1,6 +1,6 @@
 ---
 title: "My Thoughts..."
-subtitle: Daniel Moses.
-image: /img/danie.jpeg
+subtitle: Daniel A. Moses
+image: /img/bg.jpg
 ---
 
