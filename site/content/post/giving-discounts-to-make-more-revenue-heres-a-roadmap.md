@@ -1,5 +1,5 @@
 ---
-title: 'Giving discounts to make more revenue: Here''s a roadmap'
+title: 'Giving discounts to make more money for your business: Here''s a roadmap'
 date: 2019-12-13T22:43:25.653Z
 description: >-
   What do you think when you introduce discounts to whatever product or service
